@@ -274,7 +274,7 @@ export default function Hero() {
           }}>
             <div style={{ fontSize: 10, color: "#555", marginBottom: 3, letterSpacing: "0.06em", textTransform: "uppercase" }}>Current</div>
             <div style={{ fontSize: 12, fontWeight: 600, color: "#ededed" }}>Data Engineer</div>
-            <div style={{ fontSize: 11, color: "#555", marginTop: 1 }}>Hemel Hempstead, UK</div>
+            <div style={{ fontSize: 11, color: "#555", marginTop: 1 }}>London, UK</div>
           </div>
 
           {/* Floating badge — top right of photo */}
