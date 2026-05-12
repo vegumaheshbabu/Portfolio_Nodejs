@@ -16,7 +16,7 @@ export default function About() {
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 80 }}>
           <div>
             <p style={{ fontSize: 15, color: "#666", lineHeight: 1.85, marginBottom: 20 }}>
-              I&apos;m Mahesh — a Data Engineer based in Hemel Hempstead, UK. I specialise in building the infrastructure that makes data useful: pipelines, warehouses, and real-time analytics that turn raw data into decisions.
+              I&apos;m Mahesh — a Data Engineer based in London, UK. I specialise in building the infrastructure that makes data useful: pipelines, warehouses, and real-time analytics that turn raw data into decisions.
             </p>
             <p style={{ fontSize: 15, color: "#555", lineHeight: 1.85, marginBottom: 40 }}>
               I hold a First Class MSc in Data Science from Hertfordshire University and have shipped solutions at Accenture, Bank of America, and cloud startups. Outside work: guitar, travel, and teaching.
