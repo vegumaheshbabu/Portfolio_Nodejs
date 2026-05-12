@@ -164,7 +164,7 @@ export default function Hero() {
           }}>
             Building data infrastructure that powers decisions.{" "}
             <span style={{ color: "#404040" }}>
-              4+ years crafting cloud pipelines, real-time analytics, and BI systems that scale.
+              5+ years crafting cloud pipelines, real-time analytics, and BI systems that scale.
             </span>
           </p>
 
