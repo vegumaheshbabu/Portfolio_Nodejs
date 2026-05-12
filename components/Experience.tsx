@@ -37,7 +37,7 @@ const jobs = [
       { t: "Established data governance frameworks for security, compliance, and data privacy", impact: null },
       { t: "Provided technical support resolving internal data-related difficulties", impact: "300+ issues" },
     ]},
-  { company: "Claro Software Solutions", role: "Data Analyst Intern", period: "Jul 2020 – May 2021", location: "India", type: "Internship", color: "#ec4899",
+  { company: "Claro Software Solutions", role: "Data Analyst Intern", period: "Jul 2020 – May 2021", location: "India", type: "Full-time", color: "#ec4899",
     points: [
       { t: "Interpreted diverse client finance and sales datasets to surface actionable trends", impact: null },
       { t: "Delivered bi-monthly strategic reports to upper management for data-driven decisions", impact: null },
